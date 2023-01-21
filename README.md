@@ -1,3 +1,7 @@
+# Basic usage of Zustand
+> This is a Course List application built using the `react` state-management tool `zustand`. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
